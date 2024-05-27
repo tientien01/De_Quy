@@ -52,6 +52,7 @@ int fibo(int n) {
 	return	fibo(n - 1) + fibo(n - 2);
 }
 
+//Tinh Xn va Yn thong qua nhau
 int Yn(int n)
 {
 	if (n == 0) return 0;
