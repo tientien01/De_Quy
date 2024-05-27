@@ -25,6 +25,7 @@ int mulCountOddN(int n)
 	}
 }
 
+// kiem tra tat ca la toan chan or toan le
 bool isAllOddOrEven(int n) {
 
 	if (n < 10) return true;

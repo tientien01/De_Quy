@@ -49,7 +49,7 @@ bool isEmpty(Stack s) {
 	return (s.top == NULL);
 }
 
-
+// tim xau doi xung bang cach khu de quy
 bool isPalindrome(const char* str)
 {
 	int length = std::strlen(str);

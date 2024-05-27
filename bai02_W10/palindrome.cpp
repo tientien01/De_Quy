@@ -1,6 +1,6 @@
 #include "palindrome.h"
 
-
+// tim xau doi xung qua de quy
 bool isPalindrome(int l, int r, char* s)
 {
 	if (l >= r) {
